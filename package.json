@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "author": "Ryan Fitzgerald <ryan.fitz1@gmail.com>",
   "contributors": [],
-  "repository": "git://github.com/ryanfitz/",
+  "repository": "git://github.com/ryanfitz/cloudstats",
   "main": "index",
   "keywords": [
     "hapi",
