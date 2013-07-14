@@ -16,7 +16,8 @@
     "node": "0.10.x"
   },
   "dependencies": {
-    "aws-sdk": "~1.3.2"
+    "aws-sdk": "1.3.x",
+    "hoek": "0.9.x"
   },
   "peerDependencies": {
     "hapi": "1.x.x"
