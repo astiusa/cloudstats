@@ -1,7 +1,7 @@
 {
   "name": "cloudstats",
   "description": "AWS cloudwatch metrics plugin for hapi",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "author": "Ryan Fitzgerald <ryan.fitz1@gmail.com>",
   "contributors": [],
   "repository": "git://github.com/ryanfitz/cloudstats",
