@@ -16,14 +16,14 @@
     "node": "0.10.x"
   },
   "dependencies": {
-    "aws-sdk": "1.3.x",
-    "hoek": "0.9.x"
+    "aws-sdk": "2.0.0-rc8",
+    "hoek": "1.x.x"
   },
   "peerDependencies": {
-    "hapi": "1.x.x"
+    "hapi": "2.x.x"
   },
   "devDependencies": {
-    "hapi": "1.x.x"
+    "hapi": "2.x.x"
   },
   "scripts": {
     "test": "make test-cov"
